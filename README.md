@@ -1,4 +1,4 @@
-HELLO THERE!
+Hello There 👋 
 
 🔭 I’m currently working on building a community for sneakerheads.
 🌱 I’m currently learning react-native.
